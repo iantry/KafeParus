@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="soups">
+        <item>Борщ</item>
+        <item>Солянка</item>
+        <item>Лагман</item>
+        <item>Щи</item>
+    </string-array>
+
+    <string-array name="cost_soups">
+        <item>60 ₽</item>
+        <item>65 ₽</item>
+        <item>80 ₽</item>
+        <item>50 ₽</item>
+    </string-array>
+
+    <string-array name="second_dish">
+        <item>Плов</item>
+        <item>Паста карбонара</item>
+        <item>Жаркое с мясом</item>
+        <item>Мясо по французки</item>
+    </string-array>
+
+    <string-array name="cost_second_dish">
+        <item>220 ₽</item>
+        <item>250 ₽</item>
+        <item>230 ₽</item>
+        <item>300 ₽</item>
+    </string-array>
+
+
+    <string-array name="salads">
+        <item>Свежая капуста</item>
+        <item>Салат свежий</item>
+        <item>Венегрет</item>
+        <item>Морковка по корейски</item>
+        <item>Салат мясной</item>
+        <item>Оливье</item>
+        <item>Греческий салат</item>
+        <item>Цезарь</item>
+        <item>Селедка под шубой</item>
+    </string-array>
+
+    <string-array name="cost_salads">
+        <item>35 ₽</item>
+        <item>50 ₽</item>
+        <item>45 ₽</item>
+        <item>40 ₽</item>
+        <item>65 ₽</item>
+        <item>45 ₽</item>
+        <item>70 ₽</item>
+        <item>75 ₽</item>
+        <item>55 ₽</item>
+    </string-array>
+
+
+    <string-array name="snacks">
+        <item>Мясная нарезка</item>
+        <item>Сырная нарезка</item>
+        <item>Маринованные шампиньоны</item>
+    </string-array>
+
+    <string-array name="cost_snacks">
+        <item>180 ₽</item>
+        <item>175 ₽</item>
+        <item>125 ₽</item>
+    </string-array>
+
+
+    <string-array name="deserts">
+        <item>Бельгийские вафли</item>
+        <item>Клубничный пудинг</item>
+        <item>Торт "Прага"</item>
+        <item>Шоколадное пироженное</item>
+        <item>Чизкейк</item>
+    </string-array>
+
+    <string-array name="cost_deserts">
+        <item>90 ₽</item>
+        <item>80 ₽</item>
+        <item>95 ₽</item>
+        <item>85 ₽</item>
+        <item>110 ₽</item>
+    </string-array>
+
+
+    <string-array name="drinks">
+        <item>Американо</item>
+        <item>Капучино</item>
+        <item>Черный чай</item>
+        <item>Зеленый чай</item>
+        <item>Клюквенный морс, 0.5л</item>
+    </string-array>
+
+    <string-array name="cost_drinks">
+        <item>40 ₽</item>
+        <item>50 ₽</item>
+        <item>20 ₽</item>
+        <item>20 ₽</item>
+        <item>60 ₽</item>
+    </string-array>
+
+</resources>

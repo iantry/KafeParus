@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@color/colorBackground">
+
+    <ImageView
+        android:id="@+id/icon"
+        android:src="@drawable/dish1_image"
+        style="@style/styleImageDish"
+        android:layout_margin="5dp"
+        android:layout_gravity="center"/>
+
+
+    <TextView
+        android:id="@+id/dish"
+        style="@style/styleNameDish"
+        android:layout_gravity="center" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center">
+
+        <TextView
+            android:id="@+id/cost"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            style="@style/stylePriceText"/>
+
+        <Button
+            android:id="@+id/button_order"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/order"
+            android:layout_weight="1"
+            android:layout_marginBottom="10dp"
+            style="@style/greenButton"/>
+    </LinearLayout>
+
+</LinearLayout>

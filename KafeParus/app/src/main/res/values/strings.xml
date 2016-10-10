@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Парус</string>
+    <string name="cafe_name">Кафе Парус</string>
+    <string name="basket">Корзина</string>
+    <string name="soups">Первые блюда</string>
+    <string name="second_dish">Вторые блюда</string>
+    <string name="salads">Салаты</string>
+    <string name="snacks">Закуски</string>
+    <string name="desserts">Десерты</string>
+    <string name="drinks">Напитки</string>
+    <string name="back">Назад</string>
+    <string name="checkout">Оформление заказа</string>
+    <string name="checkout_button">Оформить заказ</string>
+    <string name="name">Имя:</string>
+    <string name="mobile">Моб. телефон:</string>
+    <string name="address">Адрес доставки:</string>
+    <string name="order_table">Резерв стола</string>
+    <string name="shipping">Доставка</string>
+    <string name="total_payment">Итого к оплате</string>
+
+    <string name="ruble">₽</string>
+    <string name="basket_empty">Ваша корзина пуста</string>
+    <string name="marketing_hint">Проголодались? У нас вы можете выбрать самые вкусные блюда!</string>
+    <string name="enter_name">Введите имя</string>
+    <string name="telephone">Телефон</string>
+    <string name="street">Улица</string>
+    <string name="home">Дом</string>
+    <string name="block">Корпус</string>
+    <string name="building">Строение</string>
+    <string name="apartment">Квартира</string>
+    <string name="comment">Комментарий к заказу</string>
+    <string name="order">Заказать</string>
+
+
+</resources>
